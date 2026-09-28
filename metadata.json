@@ -1,0 +1,6 @@
+{
+  "name": "ZARIYA | Luxury Eastern Fashion & Fragrances",
+  "description": "Premier Eastern clothing and luxury fragrance brand inspired by J. and Khaadi. Shop unstitched festive lawns, ready-to-wear pret, men's kurta shalwar, waistcoats, and artisanal oud perfumes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
